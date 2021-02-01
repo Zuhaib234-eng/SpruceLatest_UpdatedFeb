@@ -93,6 +93,10 @@ namespace Spruce
                 {
                     int productId = Convert.ToInt32(e.CommandArgument);
                     Models.Product product = db.Products.Where(s => s.Id.Equals(productId)).FirstOrDefault();
+                    if (product.DiscountedPrice > 0)
+                    {
+                        product.Price = Convert.ToInt32(product.DiscountedPrice);
+                    }
                     products.Add(product);
                     Session["CartSession"] = products;
                     AddtoCartPopupMessage.Value = "success";
@@ -105,6 +109,10 @@ namespace Spruce
                     if (chkproduct == null)
                     {
                         Models.Product product = db.Products.Where(s => s.Id.Equals(productId)).FirstOrDefault();
+                        if (product.DiscountedPrice > 0)
+                        {
+                            product.Price = Convert.ToInt32(product.DiscountedPrice);
+                        }
                         products.Add(product);
                         Session["CartSession"] = products;
                         AddtoCartPopupMessage.Value = "success";
@@ -144,6 +152,10 @@ namespace Spruce
                 {
                     int productId = Convert.ToInt32(e.CommandArgument);
                     Models.Product product = db.Products.Where(s => s.Id.Equals(productId)).FirstOrDefault();
+                    if (product.DiscountedPrice > 0)
+                    {
+                        product.Price = Convert.ToInt32(product.DiscountedPrice);
+                    }
                     products.Add(product);
                     Session["CartSession"] = products;
                     AddtoCartPopupMessage.Value = "success";
@@ -156,6 +168,10 @@ namespace Spruce
                     if (chkproduct == null)
                     {
                         Models.Product product = db.Products.Where(s => s.Id.Equals(productId)).FirstOrDefault();
+                        if (product.DiscountedPrice > 0)
+                        {
+                            product.Price = Convert.ToInt32(product.DiscountedPrice);
+                        }
                         products.Add(product);
                         Session["CartSession"] = products;
                         AddtoCartPopupMessage.Value = "success";

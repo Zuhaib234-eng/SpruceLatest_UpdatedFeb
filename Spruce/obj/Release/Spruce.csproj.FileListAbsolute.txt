@@ -1156,8 +1156,8 @@ C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\bin\Newtonsoft.Jso
 C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\bin\Antlr3.Runtime.pdb
 C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\obj\Release\Spruce.csprojAssemblyReference.cache
 C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\obj\Release\Spruce.csproj.CoreCompileInputs.cache
 C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\obj\Release\Spruce.csproj.CopyComplete
 C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\obj\Release\Spruce.dll
 C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\obj\Release\Spruce.pdb
+C:\Users\Zuhaib\Desktop\Pixus Office\Spruce_NewUpdated\Spruce\obj\Release\Spruce.csprojAssemblyReference.cache

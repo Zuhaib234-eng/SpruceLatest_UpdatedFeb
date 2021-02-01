@@ -24,8 +24,15 @@ namespace Spruce
             }
         }
         protected void ForgotPasswordBtn_Click(object sender, EventArgs e)
-        {            
-            SendEmailShirt(EmailTextbox.Text.Trim());
+        {
+            try
+            {
+                SendEmailShirt(EmailTextbox.Text.Trim());
+            }
+            catch(Exception ex)
+            { 
+            
+            }
         }
         private void SendEmailShirt(string Email)
         {
@@ -36,7 +43,6 @@ namespace Spruce
             Random random = new Random();
             string NewPassword = "spruce" + random.Next(1000, 9999).ToString();
             var getUser = db.Users.Where(s => s.Email.Equals(Email)).FirstOrDefault();
-
             if (getUser != null)
             {
                 getUser.Password = NewPassword;
@@ -48,7 +54,7 @@ namespace Spruce
                 message.Subject = "Spruce(Password Resset)";
                 message.Body = string.Format(Design);
                 message.IsBodyHtml = true;
-                client.UseDefaultCredentials = true;
+                client.UseDefaultCredentials = false;
                 client.EnableSsl = true;
                 client.Credentials = new System.Net.NetworkCredential("sprucecustomization.pk@gmail.com", "Spruce@2020");
                 client.Send(message);

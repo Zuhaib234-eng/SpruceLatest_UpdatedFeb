@@ -41,6 +41,13 @@ namespace Spruce
             if (Session["CartSession"] != null)
             {
                 List<Models.Product> products = Session["CartSession"] as List<Models.Product>;
+                for (int i = 0; i < products.Count; i++)
+                {
+                    if (products[i].DiscountedPrice > 0)
+                    {
+                        products[i].Price = Convert.ToInt32(products[i].DiscountedPrice);
+                    }
+                }
                 ProductRepeater.DataSource = from product in products
                                              select new
                                              {
