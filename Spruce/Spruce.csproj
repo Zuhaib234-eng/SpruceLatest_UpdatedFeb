@@ -1,0 +1,896 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EC0851A3-0080-4F9F-A94C-759B7DFF42A1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Spruce</RootNamespace>
+    <AssemblyName>Spruce</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44327</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.bootstrap">
+      <HintPath>..\packages\AspNet.ScriptManager.bootstrap.3.4.1\lib\net45\AspNet.ScriptManager.bootstrap.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.3.4.1\lib\net45\AspNet.ScriptManager.jQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.MSAjax">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\lib\net45\Microsoft.ScriptManager.MSAjax.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.WebForms">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\lib\net45\Microsoft.ScriptManager.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Web.Optimization.WebForms">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib\net45\Microsoft.AspNet.Web.Optimization.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net45\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Admin\Admin.aspx" />
+    <Content Include="Admin\AllProducts.aspx" />
+    <Content Include="Admin\Assets\css\datepicker-bs4.css" />
+    <Content Include="Admin\Assets\css\owl.carousel.css" />
+    <Content Include="Admin\Assets\css\side-bar.css" />
+    <Content Include="Admin\Assets\css\style.css" />
+    <Content Include="Admin\Assets\images\1-image.png" />
+    <Content Include="Admin\Assets\images\Apna Khi.png" />
+    <Content Include="Admin\Assets\images\Apna Khi_1.png" />
+    <Content Include="Admin\Assets\images\Apna Khi_2.png" />
+    <Content Include="Admin\Assets\images\Apna Khi_3.png" />
+    <Content Include="Admin\Assets\images\apna_khi_smple.png" />
+    <Content Include="Admin\Assets\images\example.jpg" />
+    <Content Include="Admin\Assets\images\front.png" />
+    <Content Include="Admin\Assets\images\home.gif" />
+    <Content Include="Admin\Assets\images\succesIcon.jpg" />
+    <Content Include="Admin\Assets\js\datepicker-full.js" />
+    <Content Include="Admin\Assets\js\jquery-2.2.4.min.js" />
+    <Content Include="Admin\Assets\js\jquery.min.js" />
+    <Content Include="Admin\Assets\js\owl.carousel.min.js" />
+    <Content Include="Admin\Assets\js\script.js" />
+    <Content Include="Admin\CustomerOrderDetail.aspx" />
+    <Content Include="Admin\CustomShirtOrders.aspx" />
+    <Content Include="Admin\Feedbacks.aspx" />
+    <Content Include="Admin\Images\259c2ac9-78b4-4f7c-8bc5-0c662e0b4b61.jpg" />
+    <Content Include="Admin\Images\back.png" />
+    <Content Include="Admin\Images\burger.jpg" />
+    <Content Include="Admin\Images\burger.jpg.jpg" />
+    <Content Include="Admin\Images\Capture.PNG" />
+    <Content Include="Admin\Images\Capture.PNG.png" />
+    <Content Include="Admin\Images\check.PNG" />
+    <Content Include="Admin\Images\dangerIcon.png" />
+    <Content Include="Admin\Images\dangerIcon.png.png" />
+    <Content Include="Admin\Images\fabric.jpg" />
+    <Content Include="Admin\Images\fabric.jpg.jpg" />
+    <Content Include="Admin\Images\fabric3.jpg" />
+    <Content Include="Admin\Images\fabric3.jpg.jpg" />
+    <Content Include="Admin\Images\fabric5.jpg" />
+    <Content Include="Admin\Images\fabric5.jpg.jpg" />
+    <Content Include="Admin\Images\Fall class schedule.PNG" />
+    <Content Include="Admin\Images\Fall class schedule.PNG.png" />
+    <Content Include="Admin\Images\jHwYlOlhiCQSU6OBcx6RObu72a7JSvei5rHBjvJa.jpeg" />
+    <Content Include="Admin\Images\jHwYlOlhiCQSU6OBcx6RObu72a7JSvei5rHBjvJa.jpeg.jpeg" />
+    <Content Include="Admin\Images\pizzafries.jpg" />
+    <Content Include="Admin\Images\pizzafries.jpg.jpg" />
+    <Content Include="Admin\Images\product-1_thumbnail.jpg.jpg" />
+    <Content Include="Admin\Images\Red-Cotton-Linen.jpg" />
+    <Content Include="Admin\Images\Red-Cotton-Linen.jpg.jpg" />
+    <Content Include="Admin\Images\spooutlogo.png" />
+    <Content Include="Admin\Images\subscriptionMessage.PNG" />
+    <Content Include="Admin\Images\succesIcon.jpg" />
+    <Content Include="Admin\Login.aspx" />
+    <Content Include="Admin\NewsLetter.aspx" />
+    <Content Include="Admin\OrderDetail.aspx" />
+    <Content Include="Admin\OrderImages\Barrel.png" />
+    <Content Include="Admin\OrderImages\Bottom Down.png" />
+    <Content Include="Admin\OrderImages\Button.png" />
+    <Content Include="Admin\OrderImages\Classic.png" />
+    <Content Include="Admin\OrderImages\Cut Away Extra.png" />
+    <Content Include="Admin\OrderImages\Cut Away.png" />
+    <Content Include="Admin\OrderImages\Envelope.png" />
+    <Content Include="Admin\OrderImages\French.png" />
+    <Content Include="Admin\OrderImages\Italian.png" />
+    <Content Include="Admin\OrderImages\Large Rounded.png" />
+    <Content Include="Admin\OrderImages\Large Spread.png" />
+    <Content Include="Admin\OrderImages\Narrow Bottom.png" />
+    <Content Include="Admin\OrderImages\One Button Cut.png" />
+    <Content Include="Admin\OrderImages\One Button.png" />
+    <Content Include="Admin\OrderImages\Pocket.png" />
+    <Content Include="Admin\OrderImages\Rounded With Button.png" />
+    <Content Include="Admin\OrderImages\Rounded Without Button.png" />
+    <Content Include="Admin\OrderImages\Square.png" />
+    <Content Include="Admin\OrderImages\Three Button.png" />
+    <Content Include="Admin\OrderImages\Two Button Cut.png" />
+    <Content Include="Admin\OrderImages\Two Button.png" />
+    <Content Include="Admin\OrderImages\Wing or Tuxedo.png" />
+    <Content Include="Admin\Orders.aspx" />
+    <Content Include="Admin\Update.aspx" />
+    <Content Include="Admin\Upload.aspx" />
+    <Content Include="Admin\UserDetails.aspx" />
+    <Content Include="Admin\Users.aspx" />
+    <Content Include="Assets\css\adminlte.min.css" />
+    <Content Include="Assets\css\bootstrap-slider.min.css" />
+    <Content Include="Assets\css\image-zoom.css" />
+    <Content Include="Assets\css\login-signup.css" />
+    <Content Include="Assets\css\select2-bootstrap4.min.css" />
+    <Content Include="Assets\css\style.min.css" />
+    <Content Include="Assets\Images\1.jpg" />
+    <Content Include="Assets\Images\1.png" />
+    <Content Include="Assets\Images\3rd-floor-tailors-custom-tailoring-sm.jpg" />
+    <Content Include="Assets\Images\Ab.jpg" />
+    <Content Include="Assets\Images\back.png" />
+    <Content Include="Assets\Images\banner.jpg" />
+    <Content Include="Assets\Images\Banner.png" />
+    <Content Include="Assets\Images\bespoke-shirts-banner.jpg" />
+    <Content Include="Assets\Images\bg1.jpg" />
+    <Content Include="Assets\Images\bg2.jpg" />
+    <Content Include="Assets\Images\bgCont.jpg" />
+    <Content Include="Assets\Images\black.png" />
+    <Content Include="Assets\Images\black1.png" />
+    <Content Include="Assets\Images\btn.png" />
+    <Content Include="Assets\Images\businessman-hand-using-laptop-computer-office_31965-2881.jpg" />
+    <Content Include="Assets\Images\button.jpg" />
+    <Content Include="Assets\Images\button.png" />
+    <Content Include="Assets\Images\chisel_collar.png" />
+    <Content Include="Assets\Images\cl.png" />
+    <Content Include="Assets\Images\cl.svg" />
+    <Content Include="Assets\Images\ClickHere.png" />
+    <Content Include="Assets\Images\ClickHere.svg" />
+    <Content Include="Assets\Images\client-1.png" />
+    <Content Include="Assets\Images\ClientBg.jpg" />
+    <Content Include="Assets\Images\cod.png" />
+    <Content Include="Assets\Images\collar.svg" />
+    <Content Include="Assets\Images\color-wheel.png" />
+    <Content Include="Assets\Images\computer-256.png" />
+    <Content Include="Assets\Images\confirm.png" />
+    <Content Include="Assets\Images\cuff.png" />
+    <Content Include="Assets\Images\cutt_away_extra.png" />
+    <Content Include="Assets\Images\dangerIcon.png" />
+    <Content Include="Assets\Images\DeliveryIcon.png" />
+    <Content Include="Assets\Images\design.png" />
+    <Content Include="Assets\Images\Desk.png" />
+    <Content Include="Assets\Images\download.jpg" />
+    <Content Include="Assets\Images\fab.jpg" />
+    <Content Include="Assets\Images\fabric.jpg" />
+    <Content Include="Assets\Images\fabric2.jpg" />
+    <Content Include="Assets\Images\fabric3.jpg" />
+    <Content Include="Assets\Images\fabric4.jpg" />
+    <Content Include="Assets\Images\fabric5.jpg" />
+    <Content Include="Assets\Images\fabricIcon.png" />
+    <Content Include="Assets\Images\fabT.png" />
+    <Content Include="Assets\Images\Featured.jpg" />
+    <Content Include="Assets\Images\Featured1.jpg" />
+    <Content Include="Assets\Images\full_sleeves.png" />
+    <Content Include="Assets\Images\hidden_buttons.png" />
+    <Content Include="Assets\Images\Icon.png" />
+    <Content Include="Assets\Images\images.jpg" />
+    <Content Include="Assets\Images\islogan.jpg" />
+    <Content Include="Assets\Images\Loader.gif" />
+    <Content Include="Assets\Images\Logo-black.png" />
+    <Content Include="Assets\Images\m.png" />
+    <Content Include="Assets\Images\machinr.png" />
+    <Content Include="Assets\Images\Mail -2.png" />
+    <Content Include="Assets\Images\Mail.png" />
+    <Content Include="Assets\Images\Measure.jpg" />
+    <Content Include="Assets\Images\men.jpg" />
+    <Content Include="Assets\Images\MM.png" />
+    <Content Include="Assets\Images\mstcard.png" />
+    <Content Include="Assets\Images\MyLoader.png" />
+    <Content Include="Assets\Images\MyLogo.png" />
+    <Content Include="Assets\Images\none.png" />
+    <Content Include="Assets\Images\NoPocket.png" />
+    <Content Include="Assets\Images\outwear.jpg" />
+    <Content Include="Assets\Images\phone.png" />
+    <Content Include="Assets\Images\plain.png" />
+    <Content Include="Assets\Images\Pocket.png" />
+    <Content Include="Assets\Images\product-1_thumbnail.jpg" />
+    <Content Include="Assets\Images\product-2_thumbnail.jpg" />
+    <Content Include="Assets\Images\product-3_thumbnail.jpg" />
+    <Content Include="Assets\Images\Red-Cotton-Linen.jpg" />
+    <Content Include="Assets\Images\round.png" />
+    <Content Include="Assets\Images\sarah-yUJCffIMR0A-unsplash.jpg" />
+    <Content Include="Assets\Images\scisor.png" />
+    <Content Include="Assets\Images\shirt-collar-png-11.png" />
+    <Content Include="Assets\Images\shirt.png" />
+    <Content Include="Assets\Images\shirt.svg" />
+    <Content Include="Assets\Images\shirtIcon.png" />
+    <Content Include="Assets\Images\ShirtImage.jpeg" />
+    <Content Include="Assets\Images\shirts_on_hangers.jpg" />
+    <Content Include="Assets\Images\shirttt.png" />
+    <Content Include="Assets\Images\shopping-cart-icon.png" />
+    <Content Include="Assets\Images\shutterstock-529379386-tailors-7-4ia34.jpg" />
+    <Content Include="Assets\Images\sizeTape.png" />
+    <Content Include="Assets\Images\slide2.jpg" />
+    <Content Include="Assets\Images\slide3.jpg" />
+    <Content Include="Assets\Images\slide4.jpg" />
+    <Content Include="Assets\Images\slide5.jpg" />
+    <Content Include="Assets\Images\ss.svg" />
+    <Content Include="Assets\Images\straight_cuff.png" />
+    <Content Include="Assets\Images\Styles\AI\Button.svg" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign3.svg" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign4.svg" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign5.svg" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign6.svg" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign7.svg" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign8.svg" />
+    <Content Include="Assets\Images\Styles\AI\collarStyle1.svg" />
+    <Content Include="Assets\Images\Styles\AI\collarStyle2.svg" />
+    <Content Include="Assets\Images\Styles\AI\cuff.png" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign1.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign10.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign11.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign2.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign3.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign4.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign5.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign6.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign7.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign8.svg" />
+    <Content Include="Assets\Images\Styles\AI\CuffStyle1.svg" />
+    <Content Include="Assets\Images\Styles\AI\CutAwayExtra.svg" />
+    <Content Include="Assets\Images\Styles\AI\FinalShirtSvg.svg" />
+    <Content Include="Assets\Images\Styles\AI\LongBottomShirt.svg" />
+    <Content Include="Assets\Images\Styles\AI\PocketDesign1.svg" />
+    <Content Include="Assets\Images\Styles\AI\Thread.svg" />
+    <Content Include="Assets\Images\Styles\MyLogo.png" />
+    <Content Include="Assets\Images\Styles\Svg\CollarStyle1.svg" />
+    <Content Include="Assets\Images\Styles\Svg\FinalShirtSvg.svg" />
+    <Content Include="Assets\Images\Styles\Svg\LongBottomShirt.svg" />
+    <Content Include="Assets\Images\succesIcon.jpg" />
+    <Content Include="Assets\Images\thread.png" />
+    <Content Include="Assets\Images\TopFeatured.png" />
+    <Content Include="Assets\Images\Untitled-1.png" />
+    <Content Include="Assets\Images\user_add.png" />
+    <Content Include="Assets\Images\Verified.jpg" />
+    <Content Include="Assets\Images\verified.png" />
+    <Content Include="Assets\Images\visaLogo.png" />
+    <Content Include="Assets\Images\women.jpg" />
+    <Content Include="Assets\js\bootstrap-slider.min.js" />
+    <Content Include="Assets\js\button_down.png" />
+    <Content Include="Assets\js\ed17d1723c8ed027fce1381184ab1e94.jpg" />
+    <Content Include="Assets\js\functions.js" />
+    <Content Include="Assets\js\html2canvas.js" />
+    <Content Include="Assets\js\image-zoom.js" />
+    <Content Include="Assets\js\jquery.zoom.min.js" />
+    <Content Include="Assets\js\main.js" />
+    <Content Include="Cart.aspx" />
+    <Content Include="ChangePassword.aspx" />
+    <Content Include="Checkout.aspx" />
+    <Content Include="CheckoutCustom.aspx" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="CredentialsPage.aspx" />
+    <Content Include="CustomDesigner.aspx" />
+    <Content Include="CustomOrderDetails.aspx" />
+    <Content Include="CustomShirtOrders.aspx" />
+    <Content Include="Dashboard.aspx" />
+    <Content Include="ErrorPage.html" />
+    <Content Include="ExcepionHandeling.aspx" />
+    <Content Include="Fabrics.aspx" />
+    <Content Include="FabricSingle.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="ForgotPassword.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Admin\Assets\images\apna_khi_smple.ai" />
+    <Content Include="Assets\Images\12.webp" />
+    <Content Include="Assets\Images\Banner.webp" />
+    <Content Include="Assets\Images\Logo.ai" />
+    <Content Include="Assets\Images\Styles\AI\AllCuffStyles.ai" />
+    <Content Include="Assets\Images\Styles\AI\back.ai" />
+    <Content Include="Assets\Images\Styles\AI\BtnSvgStyle1.ai" />
+    <Content Include="Assets\Images\Styles\AI\clickHere.ai" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign3.ai" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign4.ai" />
+    <Content Include="Assets\Images\Styles\AI\collarDesign6.ai" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign7.ai" />
+    <Content Include="Assets\Images\Styles\AI\CollarDesign8.ai" />
+    <Content Include="Assets\Images\Styles\AI\collarStyle1.ai" />
+    <Content Include="Assets\Images\Styles\AI\collarStyle2.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign1.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign10.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign11.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign2.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign3.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign4.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign5.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign6.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign7.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign8.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffDesign9.ai" />
+    <Content Include="Assets\Images\Styles\AI\CuffStyle1.ai" />
+    <Content Include="Assets\Images\Styles\AI\CutAwayExtra.ai" />
+    <Content Include="Assets\Images\Styles\AI\FinalShirtSvg.ai" />
+    <Content Include="Assets\Images\Styles\AI\LongBottomShirt.ai" />
+    <Content Include="Assets\Images\Styles\AI\PocketDesign1.ai" />
+    <Content Include="Assets\Images\Styles\AI\standupCollar.ai" />
+    <Content Include="Assets\Images\Styles\AI\Thread.ai" />
+    <Content Include="Measurements.aspx" />
+    <Content Include="Assets\css\style.scss" />
+    <Content Include="Assets\Images\fabricT.webp" />
+    <Content Include="Assets\Images\Icon.ai" />
+    <Content Include="Assets\Images\Logo-black.ai" />
+    <Content Include="Assets\Images\shirtt.webp" />
+    <Content Include="WhatsappContent\.gitignore" />
+    <Content Include="WhatsappContent\burger.svg" />
+    <Content Include="WhatsappContent\custom-settings.png" />
+    <Content Include="WhatsappContent\fake-chat.png" />
+    <Content Include="WhatsappContent\floating-wpp.css" />
+    <Content Include="WhatsappContent\floating-wpp.js" />
+    <Content Include="WhatsappContent\floating-wpp.min.css" />
+    <Content Include="WhatsappContent\floating-wpp.min.js" />
+    <Content Include="WhatsappContent\index.html" />
+    <Content Include="WhatsappContent\whatsapp.svg" />
+    <EntityDeploy Include="Models\Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Content>
+    <Content Include="Assets\Images\MyLogo.zip" />
+    <Content Include="Assets\Images\Styles\AI\collarStyle1--.ai" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\CustomProfile1.pubxml" />
+    <None Include="Properties\PublishProfiles\CustomProfile2.pubxml" />
+    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Index.aspx" />
+    <Content Include="MadeToMeasure.aspx" />
+    <Content Include="Models\Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </Content>
+    <Content Include="ProductOrderDetails.aspx" />
+    <Content Include="ProductOrders.aspx" />
+    <Content Include="Products.aspx" />
+    <Content Include="ProductSingle.aspx" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.js" />
+    <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\WebForms\DetailsView.js" />
+    <Content Include="Scripts\WebForms\Focus.js" />
+    <Content Include="Scripts\WebForms\GridView.js" />
+    <Content Include="Scripts\WebForms\Menu.js" />
+    <Content Include="Scripts\WebForms\MenuStandards.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\WebForms\SmartNav.js" />
+    <Content Include="Scripts\WebForms\TreeView.js" />
+    <Content Include="Scripts\WebForms\WebForms.js" />
+    <Content Include="Scripts\WebForms\WebParts.js" />
+    <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="SignIn.aspx" />
+    <Content Include="SignUp.aspx" />
+    <Content Include="Site.Master" />
+    <Content Include="StandardShirtSizes.aspx" />
+    <Content Include="ViewShirt.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Bundle.config" />
+    <Content Include="WhatsappContent\.vscode\settings.json" />
+    <Content Include="WhatsappContent\README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AllProducts.aspx.cs">
+      <DependentUpon>AllProducts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AllProducts.aspx.designer.cs">
+      <DependentUpon>AllProducts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\CustomerOrderDetail.aspx.cs">
+      <DependentUpon>CustomerOrderDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\CustomerOrderDetail.aspx.designer.cs">
+      <DependentUpon>CustomerOrderDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\CustomShirtOrders.aspx.cs">
+      <DependentUpon>CustomShirtOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\CustomShirtOrders.aspx.designer.cs">
+      <DependentUpon>CustomShirtOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Feedbacks.aspx.cs">
+      <DependentUpon>Feedbacks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Feedbacks.aspx.designer.cs">
+      <DependentUpon>Feedbacks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\NewsLetter.aspx.cs">
+      <DependentUpon>NewsLetter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\NewsLetter.aspx.designer.cs">
+      <DependentUpon>NewsLetter.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\OrderDetail.aspx.cs">
+      <DependentUpon>OrderDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\OrderDetail.aspx.designer.cs">
+      <DependentUpon>OrderDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Orders.aspx.cs">
+      <DependentUpon>Orders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Orders.aspx.designer.cs">
+      <DependentUpon>Orders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Update.aspx.cs">
+      <DependentUpon>Update.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Update.aspx.designer.cs">
+      <DependentUpon>Update.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Upload.aspx.cs">
+      <DependentUpon>Upload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Upload.aspx.designer.cs">
+      <DependentUpon>Upload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserDetails.aspx.cs">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\UserDetails.aspx.designer.cs">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Users.aspx.cs">
+      <DependentUpon>Users.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Users.aspx.designer.cs">
+      <DependentUpon>Users.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Cart.aspx.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cart.aspx.designer.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Checkout.aspx.cs">
+      <DependentUpon>Checkout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Checkout.aspx.designer.cs">
+      <DependentUpon>Checkout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckoutCustom.aspx.cs">
+      <DependentUpon>CheckoutCustom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckoutCustom.aspx.designer.cs">
+      <DependentUpon>CheckoutCustom.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CredentialsPage.aspx.cs">
+      <DependentUpon>CredentialsPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CredentialsPage.aspx.designer.cs">
+      <DependentUpon>CredentialsPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomDesigner.aspx.cs">
+      <DependentUpon>CustomDesigner.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomDesigner.aspx.designer.cs">
+      <DependentUpon>CustomDesigner.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomOrderDetails.aspx.cs">
+      <DependentUpon>CustomOrderDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomOrderDetails.aspx.designer.cs">
+      <DependentUpon>CustomOrderDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomShirtOrders.aspx.cs">
+      <DependentUpon>CustomShirtOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomShirtOrders.aspx.designer.cs">
+      <DependentUpon>CustomShirtOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.aspx.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dashboard.aspx.designer.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExcepionHandeling.aspx.cs">
+      <DependentUpon>ExcepionHandeling.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExcepionHandeling.aspx.designer.cs">
+      <DependentUpon>ExcepionHandeling.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fabrics.aspx.cs">
+      <DependentUpon>Fabrics.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Fabrics.aspx.designer.cs">
+      <DependentUpon>Fabrics.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FabricSingle.aspx.cs">
+      <DependentUpon>FabricSingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FabricSingle.aspx.designer.cs">
+      <DependentUpon>FabricSingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword.aspx.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.aspx.designer.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MadeToMeasure.aspx.cs">
+      <DependentUpon>MadeToMeasure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MadeToMeasure.aspx.designer.cs">
+      <DependentUpon>MadeToMeasure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Measurements.aspx.cs">
+      <DependentUpon>Measurements.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Measurements.aspx.designer.cs">
+      <DependentUpon>Measurements.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AdminLog.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Cart.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ContactU.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\CustomDesign.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\CustomOrder.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Featured.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\FeedBack.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\MadeToMeasure.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Order.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Password.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Pix_us_ExceptionHandeling.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Product.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Review.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Subscription.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\User.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProductOrderDetails.aspx.cs">
+      <DependentUpon>ProductOrderDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductOrderDetails.aspx.designer.cs">
+      <DependentUpon>ProductOrderDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductOrders.aspx.cs">
+      <DependentUpon>ProductOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductOrders.aspx.designer.cs">
+      <DependentUpon>ProductOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Products.aspx.cs">
+      <DependentUpon>Products.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Products.aspx.designer.cs">
+      <DependentUpon>Products.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductSingle.aspx.cs">
+      <DependentUpon>ProductSingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductSingle.aspx.designer.cs">
+      <DependentUpon>ProductSingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignIn.aspx.cs">
+      <DependentUpon>SignIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SignIn.aspx.designer.cs">
+      <DependentUpon>SignIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.aspx.cs">
+      <DependentUpon>SignUp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SignUp.aspx.designer.cs">
+      <DependentUpon>SignUp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="StandardShirtSizes.aspx.cs">
+      <DependentUpon>StandardShirtSizes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StandardShirtSizes.aspx.designer.cs">
+      <DependentUpon>StandardShirtSizes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewShirt.aspx.cs">
+      <DependentUpon>ViewShirt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewShirt.aspx.designer.cs">
+      <DependentUpon>ViewShirt.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Admin\TailorImages\" />
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.4.1.min.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>59351</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44327/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

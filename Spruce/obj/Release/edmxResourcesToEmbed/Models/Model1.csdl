@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SpruceModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AdminLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cart">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderId" Type="Int32" Nullable="false" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" />
+    <NavigationProperty Name="Order" Relationship="Self.FK__Cart__OrderId__3B75D760" FromRole="Cart" ToRole="Order" />
+    <NavigationProperty Name="Product" Relationship="SpruceModel.FK__Cart__ProductId__3F466844" FromRole="Cart" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="ContactU">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Subject" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Message" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PhoneNo" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="CustomDesign">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FabricId" Type="Int32" Nullable="false" />
+    <Property Name="ShirtStyle" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ThreadColor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CuffStyle" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ButtonStyle" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BtnColor" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PocketStyle" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MadeToMeasureOrStandard" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CollorStyle" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CustomOrders" Relationship="Self.FK__CustomOrd__Custo__3D5E1FD2" FromRole="CustomDesign" ToRole="CustomOrders" />
+    <NavigationProperty Name="MadeToMeasures" Relationship="Self.FK__MadeToMea__Custo__403A8C7D" FromRole="CustomDesign" ToRole="MadeToMeasure" />
+  </EntityType>
+  <EntityType Name="CustomOrder">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomDesign" Type="Int32" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Status" Type="Boolean" />
+    <Property Name="Total" Type="Int32" />
+    <Property Name="AdminView" Type="Boolean" />
+    <Property Name="secondAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CustomDesign1" Relationship="Self.FK__CustomOrd__Custo__3D5E1FD2" FromRole="CustomOrders" ToRole="CustomDesign" />
+    <NavigationProperty Name="User" Relationship="Self.FK__CustomOrd__UserI__3E52440B" FromRole="CustomOrders" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Featured">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="SpruceModel.FK__Featured__Produc__4222D4EF" FromRole="Featured" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="FeedBack">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Feeling" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Issue" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="300" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MadeToMeasure">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Collar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Shoulder" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Chest" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Waist" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SleeveLength" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ShirtLength" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CustomOrderId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CustomDesign" Relationship="Self.FK__MadeToMea__Custo__403A8C7D" FromRole="MadeToMeasure" ToRole="CustomDesign" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Total" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <Property Name="AdminView" Type="Boolean" />
+    <Property Name="secondAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Carts" Relationship="Self.FK__Cart__OrderId__3B75D760" FromRole="Order" ToRole="Cart" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Order__UserId__412EB0B6" FromRole="Order" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Password">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password1" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Pix_us_ExceptionHandeling">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Block" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Review">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Review1" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Rating" Type="Int32" />
+    <NavigationProperty Name="Product" Relationship="SpruceModel.FK__Review__ProductI__44FF419A" FromRole="Review" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Subscription">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PhoneNo" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="CustomOrders" Relationship="Self.FK__CustomOrd__UserI__3E52440B" FromRole="User" ToRole="CustomOrders" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK__Order__UserId__412EB0B6" FromRole="User" ToRole="Order" />
+  </EntityType>
+  <Association Name="FK__Cart__OrderId__3B75D760">
+    <End Role="Order" Type="Self.Order" Multiplicity="1" />
+    <End Role="Cart" Type="Self.Cart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cart">
+        <PropertyRef Name="OrderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CustomOrd__Custo__3D5E1FD2">
+    <End Role="CustomDesign" Type="Self.CustomDesign" Multiplicity="1" />
+    <End Role="CustomOrders" Type="Self.CustomOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CustomDesign">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CustomOrders">
+        <PropertyRef Name="CustomDesign" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__MadeToMea__Custo__403A8C7D">
+    <End Role="CustomDesign" Type="Self.CustomDesign" Multiplicity="1" />
+    <End Role="MadeToMeasure" Type="Self.MadeToMeasure" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CustomDesign">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="MadeToMeasure">
+        <PropertyRef Name="CustomOrderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CustomOrd__UserI__3E52440B">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="CustomOrders" Type="Self.CustomOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CustomOrders">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Order__UserId__412EB0B6">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SpruceEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AdminLogs" EntityType="Self.AdminLog" />
+    <EntitySet Name="Carts" EntityType="Self.Cart" />
+    <EntitySet Name="ContactUs" EntityType="Self.ContactU" />
+    <EntitySet Name="CustomDesigns" EntityType="Self.CustomDesign" />
+    <EntitySet Name="CustomOrders" EntityType="Self.CustomOrder" />
+    <EntitySet Name="Featureds" EntityType="Self.Featured" />
+    <EntitySet Name="FeedBacks" EntityType="Self.FeedBack" />
+    <EntitySet Name="MadeToMeasures" EntityType="Self.MadeToMeasure" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <EntitySet Name="Passwords" EntityType="Self.Password" />
+    <EntitySet Name="Pix_us_ExceptionHandeling" EntityType="Self.Pix_us_ExceptionHandeling" />
+    <EntitySet Name="Reviews" EntityType="Self.Review" />
+    <EntitySet Name="Subscriptions" EntityType="Self.Subscription" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK__Cart__OrderId__3B75D760" Association="Self.FK__Cart__OrderId__3B75D760">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="Cart" EntitySet="Carts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CustomOrd__Custo__3D5E1FD2" Association="Self.FK__CustomOrd__Custo__3D5E1FD2">
+      <End Role="CustomDesign" EntitySet="CustomDesigns" />
+      <End Role="CustomOrders" EntitySet="CustomOrders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__MadeToMea__Custo__403A8C7D" Association="Self.FK__MadeToMea__Custo__403A8C7D">
+      <End Role="CustomDesign" EntitySet="CustomDesigns" />
+      <End Role="MadeToMeasure" EntitySet="MadeToMeasures" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CustomOrd__UserI__3E52440B" Association="Self.FK__CustomOrd__UserI__3E52440B">
+      <End Role="User" EntitySet="Users" />
+      <End Role="CustomOrders" EntitySet="CustomOrders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Order__UserId__412EB0B6" Association="Self.FK__Order__UserId__412EB0B6">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <EntitySet Name="Products" EntityType="SpruceModel.Product" />
+    <AssociationSet Name="FK__Cart__ProductId__3F466844" Association="SpruceModel.FK__Cart__ProductId__3F466844">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="Cart" EntitySet="Carts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Featured__Produc__4222D4EF" Association="SpruceModel.FK__Featured__Produc__4222D4EF">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="Featured" EntitySet="Featureds" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Review__ProductI__44FF419A" Association="SpruceModel.FK__Review__ProductI__44FF419A">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="Review" EntitySet="Reviews" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Type" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MainImage" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ImageGallery" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="1500" FixedLength="false" Unicode="true" />
+    <Property Name="DiscountedPrice" Type="Int32" />
+    <Property Name="sold" Type="Boolean" />
+    <Property Name="Category" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Color" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="delete" Type="Boolean" />
+    <NavigationProperty Name="Carts" Relationship="SpruceModel.FK__Cart__ProductId__3F466844" FromRole="Product" ToRole="Cart" />
+    <NavigationProperty Name="Featureds" Relationship="SpruceModel.FK__Featured__Produc__4222D4EF" FromRole="Product" ToRole="Featured" />
+    <NavigationProperty Name="Reviews" Relationship="SpruceModel.FK__Review__ProductI__44FF419A" FromRole="Product" ToRole="Review" />
+  </EntityType>
+  <Association Name="FK__Cart__ProductId__3F466844">
+    <End Type="SpruceModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="SpruceModel.Cart" Role="Cart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cart">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Featured__Produc__4222D4EF">
+    <End Type="SpruceModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="SpruceModel.Featured" Role="Featured" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Featured">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Review__ProductI__44FF419A">
+    <End Type="SpruceModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="SpruceModel.Review" Role="Review" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Review">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

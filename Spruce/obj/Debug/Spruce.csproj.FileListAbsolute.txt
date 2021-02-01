@@ -1,0 +1,1388 @@
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Spruce.dll.config
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Spruce.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Spruce.pdb
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\csc.exe
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\csc.exe.config
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\csc.rsp
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\csi.exe
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\csi.exe.config
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\csi.rsp
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Console.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\vbc.exe
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\vbc.exe.config
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\vbc.rsp
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Antlr3.Runtime.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Newtonsoft.Json.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\System.Web.Optimization.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\WebGrease.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\System.Web.Optimization.xml
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Newtonsoft.Json.xml
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\obj\Debug\Spruce.dll
+E:\My Work Data\Office Work\Projects\Spruce-Asp\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Spruce.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Spruce.dll.config
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Spruce.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Spruce.pdb
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\csc.exe
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\csc.exe.config
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\csc.rsp
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\csi.exe
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\csi.exe.config
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\csi.rsp
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Console.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe.config
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\vbc.rsp
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\EntityFramework.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\System.Web.Optimization.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\WebGrease.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\EntityFramework.xml
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\System.Web.Optimization.xml
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.xml
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\obj\Debug\Spruce.dll
+E:\My Work Data\Office Work\Projects\SpruceAsp\Spruce\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Spruce.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Rafay Updated\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\obj\Debug\Spruce.pdb
+G:\Office work\Spruce\Spruce\Spruce\bin\Spruce.dll.config
+G:\Office work\Spruce\Spruce\Spruce\bin\Spruce.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\Spruce.pdb
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\csc.exe
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\csc.exe.config
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\csc.rsp
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\csi.exe
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\csi.exe.config
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\csi.rsp
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Console.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe.config
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\vbc.rsp
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+G:\Office work\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+G:\Office work\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\EntityFramework.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\System.Web.Optimization.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\WebGrease.dll
+G:\Office work\Spruce\Spruce\Spruce\bin\EntityFramework.xml
+G:\Office work\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+G:\Office work\Spruce\Spruce\Spruce\bin\System.Web.Optimization.xml
+G:\Office work\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.xml
+G:\Office work\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+G:\Office work\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Office work\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Office work\Spruce\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+G:\Office work\Spruce\Spruce\Spruce\obj\Debug\Spruce.dll
+G:\Office work\Spruce\Spruce\Spruce\obj\Debug\Spruce.pdb
+G:\Office work\Spruce\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\obj\Debug\Spruce.pdb
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Spruce.dll.config
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Spruce.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Spruce.pdb
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\csc.exe
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\csc.exe.config
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\csc.rsp
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\csi.exe
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\csi.exe.config
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\csi.rsp
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Console.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe.config
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\vbc.rsp
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\EntityFramework.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\System.Web.Optimization.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\WebGrease.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\EntityFramework.xml
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\System.Web.Optimization.xml
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.xml
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\obj\Debug\Spruce.dll
+E:\My Work Data\Office Work\Projects\Asp\Spruce\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Spruce.dll.config
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Spruce.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Spruce.pdb
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\csc.exe
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\csc.exe.config
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\csc.rsp
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\csi.exe
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\csi.exe.config
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\csi.rsp
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Console.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\vbc.exe
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\vbc.exe.config
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\vbc.rsp
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Antlr3.Runtime.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\EntityFramework.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Newtonsoft.Json.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\System.Web.Optimization.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\WebGrease.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\EntityFramework.xml
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\System.Web.Optimization.xml
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Newtonsoft.Json.xml
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\obj\Debug\Spruce.dll
+E:\My Work Data\Office Work\Projects\Spruce -1\Spruce_2\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\Spruce\Spruce\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Spruce.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\Abdul Rafay\Desktop\New folder (2)\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Spruce.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Spruce.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\20-10-2020\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\Zuhaib Ahmed\Desktop\Spruce\Spruce\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\21-20-2020\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Spruce.dll.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\csc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\csc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\csc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\csi.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\csi.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\csi.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Console.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\vbc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\vbc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\EntityFramework.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\System.Web.Optimization.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\WebGrease.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\EntityFramework.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\System.Web.Optimization.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\obj\Debug\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\22-10-2020\Spruce\Spruce\obj\Debug\Spruce.pdb
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Spruce.dll.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Spruce.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Spruce.pdb
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\csc.exe
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\csc.exe.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\csc.rsp
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\csi.exe
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\csi.exe.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\csi.rsp
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Console.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\vbc.exe
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\vbc.rsp
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\EntityFramework.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\System.Web.Optimization.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\WebGrease.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\EntityFramework.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\System.Web.Optimization.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\obj\Debug\Spruce.dll
+C:\Users\Abdul Rafay\Downloads\Compressed\Spruce_Latest\Spruce\obj\Debug\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Spruce.dll.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Spruce.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\csc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\csc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\csc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\csi.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\csi.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\csi.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.AppContext.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Console.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.IO.Compression.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Net.Http.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.ValueTuple.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\vbc.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\vbc.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\vbc.rsp
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\VBCSCompiler.exe
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Antlr3.Runtime.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\EntityFramework.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\EntityFramework.SqlServer.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Newtonsoft.Json.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\System.Web.Optimization.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\WebGrease.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\EntityFramework.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\EntityFramework.SqlServer.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\System.Web.Optimization.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Newtonsoft.Json.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Antlr3.Runtime.pdb
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\obj\Debug\Spruce.csprojAssemblyReference.cache
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\obj\Debug\Spruce.csproj.CoreCompileInputs.cache
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\obj\Debug\Spruce.csproj.CopyComplete
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\obj\Debug\Spruce.dll
+C:\Users\PIXUS\Desktop\Zuhaib Ahmed\29-10-2020\Spruce_Latest\Spruce\obj\Debug\Spruce.pdb

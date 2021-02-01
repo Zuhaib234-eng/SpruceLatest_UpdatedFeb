@@ -1,0 +1,845 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="SpruceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="AdminLog">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Cart">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="OrderId" Type="int" Nullable="false" />
+          <Property Name="ProductId" Type="int" Nullable="false" />
+          <Property Name="Quantity" Type="int" />
+        </EntityType>
+        <EntityType Name="ContactUs">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="250" />
+          <Property Name="Email" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="Subject" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Message" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="PhoneNo" Type="nvarchar" MaxLength="15" />
+        </EntityType>
+        <EntityType Name="CustomDesign">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FabricId" Type="int" Nullable="false" />
+          <Property Name="ShirtStyle" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="ThreadColor" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="CuffStyle" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="ButtonStyle" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="BtnColor" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="PocketStyle" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="MadeToMeasureOrStandard" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CollorStyle" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="CustomOrders">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CustomDesign" Type="int" Nullable="false" />
+          <Property Name="UserId" Type="int" Nullable="false" />
+          <Property Name="Date" Type="datetime" Nullable="false" />
+          <Property Name="Status" Type="bit" />
+          <Property Name="Total" Type="int" />
+          <Property Name="AdminView" Type="bit" />
+          <Property Name="secondAddress" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="Featured">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ProductId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="FeedBack">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Feeling" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="Issue" Type="nvarchar" MaxLength="25" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="Description" Type="nvarchar" MaxLength="300" Nullable="false" />
+        </EntityType>
+        <EntityType Name="MadeToMeasure">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Collar" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Shoulder" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Chest" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Waist" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="SleeveLength" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="ShirtLength" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CustomOrderId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Order">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserId" Type="int" Nullable="false" />
+          <Property Name="Date" Type="datetime" Nullable="false" />
+          <Property Name="Total" Type="int" Nullable="false" />
+          <Property Name="Status" Type="bit" Nullable="false" />
+          <Property Name="AdminView" Type="bit" />
+          <Property Name="secondAddress" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="Password">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="Password" Type="nvarchar" MaxLength="500" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Pix_us_ExceptionHandeling">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" />
+          <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Block" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Product">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="500" Nullable="false" />
+          <Property Name="Price" Type="int" Nullable="false" />
+          <Property Name="Quantity" Type="int" Nullable="false" />
+          <Property Name="Type" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="MainImage" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="ImageGallery" Type="nvarchar(max)" />
+          <Property Name="Description" Type="nvarchar" MaxLength="1500" Nullable="false" />
+          <Property Name="DiscountedPrice" Type="int" />
+          <Property Name="sold" Type="bit" />
+          <Property Name="Category" Type="nvarchar" MaxLength="50" />
+          <Property Name="Color" Type="nvarchar" MaxLength="20" />
+          <Property Name="delete" Type="bit" />
+        </EntityType>
+        <EntityType Name="Review">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ProductId" Type="int" Nullable="false" />
+          <Property Name="Review" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Rating" Type="int" />
+        </EntityType>
+        <EntityType Name="Subscription">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="200" Nullable="false" />
+          <Property Name="PhoneNo" Type="nvarchar" MaxLength="25" Nullable="false" />
+          <Property Name="Password" Type="nvarchar" MaxLength="200" Nullable="false" />
+          <Property Name="Address" Type="nvarchar" MaxLength="500" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__Cart__OrderId__3E52440B">
+          <End Role="Order" Type="Self.Order" Multiplicity="1" />
+          <End Role="Cart" Type="Self.Cart" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Order">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Cart">
+              <PropertyRef Name="OrderId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Cart__ProductId__3F466844">
+          <End Role="Product" Type="Self.Product" Multiplicity="1" />
+          <End Role="Cart" Type="Self.Cart" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Product">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Cart">
+              <PropertyRef Name="ProductId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CustomOrd__Custo__403A8C7D">
+          <End Role="CustomDesign" Type="Self.CustomDesign" Multiplicity="1" />
+          <End Role="CustomOrders" Type="Self.CustomOrders" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CustomDesign">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CustomOrders">
+              <PropertyRef Name="CustomDesign" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CustomOrd__UserI__412EB0B6">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="CustomOrders" Type="Self.CustomOrders" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CustomOrders">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Featured__Produc__4222D4EF">
+          <End Role="Product" Type="Self.Product" Multiplicity="1" />
+          <End Role="Featured" Type="Self.Featured" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Product">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Featured">
+              <PropertyRef Name="ProductId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__MadeToMea__Custo__4316F928">
+          <End Role="CustomDesign" Type="Self.CustomDesign" Multiplicity="1" />
+          <End Role="MadeToMeasure" Type="Self.MadeToMeasure" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CustomDesign">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="MadeToMeasure">
+              <PropertyRef Name="CustomOrderId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Order__UserId__440B1D61">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Order" Type="Self.Order" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Order">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Review__ProductI__44FF419A">
+          <End Role="Product" Type="Self.Product" Multiplicity="1" />
+          <End Role="Review" Type="Self.Review" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Product">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Review">
+              <PropertyRef Name="ProductId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SpruceModelStoreContainer">
+          <EntitySet Name="AdminLog" EntityType="Self.AdminLog" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Cart" EntityType="Self.Cart" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ContactUs" EntityType="Self.ContactUs" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CustomDesign" EntityType="Self.CustomDesign" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CustomOrders" EntityType="Self.CustomOrders" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Featured" EntityType="Self.Featured" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="FeedBack" EntityType="Self.FeedBack" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="MadeToMeasure" EntityType="Self.MadeToMeasure" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Order" EntityType="Self.Order" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Password" EntityType="Self.Password" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Pix_us_ExceptionHandeling" EntityType="Self.Pix_us_ExceptionHandeling" Schema="dbo" Table="Pix.us.ExceptionHandeling" store:Type="Tables" />
+          <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Review" EntityType="Self.Review" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Subscription" EntityType="Self.Subscription" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Cart__OrderId__3E52440B" Association="Self.FK__Cart__OrderId__3E52440B">
+            <End Role="Order" EntitySet="Order" />
+            <End Role="Cart" EntitySet="Cart" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Cart__ProductId__3F466844" Association="Self.FK__Cart__ProductId__3F466844">
+            <End Role="Product" EntitySet="Product" />
+            <End Role="Cart" EntitySet="Cart" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CustomOrd__Custo__403A8C7D" Association="Self.FK__CustomOrd__Custo__403A8C7D">
+            <End Role="CustomDesign" EntitySet="CustomDesign" />
+            <End Role="CustomOrders" EntitySet="CustomOrders" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CustomOrd__UserI__412EB0B6" Association="Self.FK__CustomOrd__UserI__412EB0B6">
+            <End Role="User" EntitySet="User" />
+            <End Role="CustomOrders" EntitySet="CustomOrders" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Featured__Produc__4222D4EF" Association="Self.FK__Featured__Produc__4222D4EF">
+            <End Role="Product" EntitySet="Product" />
+            <End Role="Featured" EntitySet="Featured" />
+          </AssociationSet>
+          <AssociationSet Name="FK__MadeToMea__Custo__4316F928" Association="Self.FK__MadeToMea__Custo__4316F928">
+            <End Role="CustomDesign" EntitySet="CustomDesign" />
+            <End Role="MadeToMeasure" EntitySet="MadeToMeasure" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Order__UserId__440B1D61" Association="Self.FK__Order__UserId__440B1D61">
+            <End Role="User" EntitySet="User" />
+            <End Role="Order" EntitySet="Order" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Review__ProductI__44FF419A" Association="Self.FK__Review__ProductI__44FF419A">
+            <End Role="Product" EntitySet="Product" />
+            <End Role="Review" EntitySet="Review" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="SpruceModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="AdminLog">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Cart">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="OrderId" Type="Int32" Nullable="false" />
+          <Property Name="ProductId" Type="Int32" Nullable="false" />
+          <Property Name="Quantity" Type="Int32" />
+          <NavigationProperty Name="Order" Relationship="Self.FK__Cart__OrderId__3B75D760" FromRole="Cart" ToRole="Order" />
+          <NavigationProperty Name="Product" Relationship="SpruceModel.FK__Cart__ProductId__3F466844" FromRole="Cart" ToRole="Product" />
+        </EntityType>
+        <EntityType Name="ContactU">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="Email" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Subject" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Message" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="PhoneNo" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="CustomDesign">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FabricId" Type="Int32" Nullable="false" />
+          <Property Name="ShirtStyle" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ThreadColor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CuffStyle" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ButtonStyle" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="BtnColor" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="PocketStyle" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="MadeToMeasureOrStandard" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CollorStyle" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="CustomOrders" Relationship="Self.FK__CustomOrd__Custo__3D5E1FD2" FromRole="CustomDesign" ToRole="CustomOrders" />
+          <NavigationProperty Name="MadeToMeasures" Relationship="Self.FK__MadeToMea__Custo__403A8C7D" FromRole="CustomDesign" ToRole="MadeToMeasure" />
+        </EntityType>
+        <EntityType Name="CustomOrder">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CustomDesign" Type="Int32" Nullable="false" />
+          <Property Name="UserId" Type="Int32" Nullable="false" />
+          <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Status" Type="Boolean" />
+          <Property Name="Total" Type="Int32" />
+          <Property Name="AdminView" Type="Boolean" />
+          <Property Name="secondAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="CustomDesign1" Relationship="Self.FK__CustomOrd__Custo__3D5E1FD2" FromRole="CustomOrders" ToRole="CustomDesign" />
+          <NavigationProperty Name="User" Relationship="Self.FK__CustomOrd__UserI__3E52440B" FromRole="CustomOrders" ToRole="User" />
+        </EntityType>
+        <EntityType Name="Featured">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ProductId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Product" Relationship="SpruceModel.FK__Featured__Produc__4222D4EF" FromRole="Featured" ToRole="Product" />
+        </EntityType>
+        <EntityType Name="FeedBack">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Feeling" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Issue" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="300" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="MadeToMeasure">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Collar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Shoulder" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Chest" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Waist" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SleeveLength" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ShirtLength" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CustomOrderId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="CustomDesign" Relationship="Self.FK__MadeToMea__Custo__403A8C7D" FromRole="MadeToMeasure" ToRole="CustomDesign" />
+        </EntityType>
+        <EntityType Name="Order">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserId" Type="Int32" Nullable="false" />
+          <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Total" Type="Int32" Nullable="false" />
+          <Property Name="Status" Type="Boolean" Nullable="false" />
+          <Property Name="AdminView" Type="Boolean" />
+          <Property Name="secondAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Carts" Relationship="Self.FK__Cart__OrderId__3B75D760" FromRole="Order" ToRole="Cart" />
+          <NavigationProperty Name="User" Relationship="Self.FK__Order__UserId__412EB0B6" FromRole="Order" ToRole="User" />
+        </EntityType>
+        <EntityType Name="Password">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Email" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Password1" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Pix_us_ExceptionHandeling">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" />
+          <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Block" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Review">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ProductId" Type="Int32" Nullable="false" />
+          <Property Name="Review1" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Rating" Type="Int32" />
+          <NavigationProperty Name="Product" Relationship="SpruceModel.FK__Review__ProductI__44FF419A" FromRole="Review" ToRole="Product" />
+        </EntityType>
+        <EntityType Name="Subscription">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="PhoneNo" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Password" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Address" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="CustomOrders" Relationship="Self.FK__CustomOrd__UserI__3E52440B" FromRole="User" ToRole="CustomOrders" />
+          <NavigationProperty Name="Orders" Relationship="Self.FK__Order__UserId__412EB0B6" FromRole="User" ToRole="Order" />
+        </EntityType>
+        <Association Name="FK__Cart__OrderId__3B75D760">
+          <End Role="Order" Type="Self.Order" Multiplicity="1" />
+          <End Role="Cart" Type="Self.Cart" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Order">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Cart">
+              <PropertyRef Name="OrderId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CustomOrd__Custo__3D5E1FD2">
+          <End Role="CustomDesign" Type="Self.CustomDesign" Multiplicity="1" />
+          <End Role="CustomOrders" Type="Self.CustomOrder" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CustomDesign">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CustomOrders">
+              <PropertyRef Name="CustomDesign" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__MadeToMea__Custo__403A8C7D">
+          <End Role="CustomDesign" Type="Self.CustomDesign" Multiplicity="1" />
+          <End Role="MadeToMeasure" Type="Self.MadeToMeasure" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CustomDesign">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="MadeToMeasure">
+              <PropertyRef Name="CustomOrderId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CustomOrd__UserI__3E52440B">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="CustomOrders" Type="Self.CustomOrder" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CustomOrders">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Order__UserId__412EB0B6">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Order" Type="Self.Order" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Order">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SpruceEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="AdminLogs" EntityType="Self.AdminLog" />
+          <EntitySet Name="Carts" EntityType="Self.Cart" />
+          <EntitySet Name="ContactUs" EntityType="Self.ContactU" />
+          <EntitySet Name="CustomDesigns" EntityType="Self.CustomDesign" />
+          <EntitySet Name="CustomOrders" EntityType="Self.CustomOrder" />
+          <EntitySet Name="Featureds" EntityType="Self.Featured" />
+          <EntitySet Name="FeedBacks" EntityType="Self.FeedBack" />
+          <EntitySet Name="MadeToMeasures" EntityType="Self.MadeToMeasure" />
+          <EntitySet Name="Orders" EntityType="Self.Order" />
+          <EntitySet Name="Passwords" EntityType="Self.Password" />
+          <EntitySet Name="Pix_us_ExceptionHandeling" EntityType="Self.Pix_us_ExceptionHandeling" />
+          <EntitySet Name="Reviews" EntityType="Self.Review" />
+          <EntitySet Name="Subscriptions" EntityType="Self.Subscription" />
+          <EntitySet Name="Users" EntityType="Self.User" />
+          <AssociationSet Name="FK__Cart__OrderId__3B75D760" Association="Self.FK__Cart__OrderId__3B75D760">
+            <End Role="Order" EntitySet="Orders" />
+            <End Role="Cart" EntitySet="Carts" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CustomOrd__Custo__3D5E1FD2" Association="Self.FK__CustomOrd__Custo__3D5E1FD2">
+            <End Role="CustomDesign" EntitySet="CustomDesigns" />
+            <End Role="CustomOrders" EntitySet="CustomOrders" />
+          </AssociationSet>
+          <AssociationSet Name="FK__MadeToMea__Custo__403A8C7D" Association="Self.FK__MadeToMea__Custo__403A8C7D">
+            <End Role="CustomDesign" EntitySet="CustomDesigns" />
+            <End Role="MadeToMeasure" EntitySet="MadeToMeasures" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CustomOrd__UserI__3E52440B" Association="Self.FK__CustomOrd__UserI__3E52440B">
+            <End Role="User" EntitySet="Users" />
+            <End Role="CustomOrders" EntitySet="CustomOrders" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Order__UserId__412EB0B6" Association="Self.FK__Order__UserId__412EB0B6">
+            <End Role="User" EntitySet="Users" />
+            <End Role="Order" EntitySet="Orders" />
+          </AssociationSet>
+          <EntitySet Name="Products" EntityType="SpruceModel.Product" />
+          <AssociationSet Name="FK__Cart__ProductId__3F466844" Association="SpruceModel.FK__Cart__ProductId__3F466844">
+            <End Role="Product" EntitySet="Products" />
+            <End Role="Cart" EntitySet="Carts" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Featured__Produc__4222D4EF" Association="SpruceModel.FK__Featured__Produc__4222D4EF">
+            <End Role="Product" EntitySet="Products" />
+            <End Role="Featured" EntitySet="Featureds" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Review__ProductI__44FF419A" Association="SpruceModel.FK__Review__ProductI__44FF419A">
+            <End Role="Product" EntitySet="Products" />
+            <End Role="Review" EntitySet="Reviews" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Product">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="Price" Type="Int32" Nullable="false" />
+          <Property Name="Quantity" Type="Int32" Nullable="false" />
+          <Property Name="Type" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MainImage" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="ImageGallery" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" Nullable="false" MaxLength="1500" FixedLength="false" Unicode="true" />
+          <Property Name="DiscountedPrice" Type="Int32" />
+          <Property Name="sold" Type="Boolean" />
+          <Property Name="Category" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Color" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="delete" Type="Boolean" />
+          <NavigationProperty Name="Carts" Relationship="SpruceModel.FK__Cart__ProductId__3F466844" FromRole="Product" ToRole="Cart" />
+          <NavigationProperty Name="Featureds" Relationship="SpruceModel.FK__Featured__Produc__4222D4EF" FromRole="Product" ToRole="Featured" />
+          <NavigationProperty Name="Reviews" Relationship="SpruceModel.FK__Review__ProductI__44FF419A" FromRole="Product" ToRole="Review" />
+        </EntityType>
+        <Association Name="FK__Cart__ProductId__3F466844">
+          <End Type="SpruceModel.Product" Role="Product" Multiplicity="1" />
+          <End Type="SpruceModel.Cart" Role="Cart" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Product">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Cart">
+              <PropertyRef Name="ProductId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Featured__Produc__4222D4EF">
+          <End Type="SpruceModel.Product" Role="Product" Multiplicity="1" />
+          <End Type="SpruceModel.Featured" Role="Featured" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Product">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Featured">
+              <PropertyRef Name="ProductId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Review__ProductI__44FF419A">
+          <End Type="SpruceModel.Product" Role="Product" Multiplicity="1" />
+          <End Type="SpruceModel.Review" Role="Review" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Product">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Review">
+              <PropertyRef Name="ProductId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="SpruceModelStoreContainer" CdmEntityContainer="SpruceEntities">
+          <EntitySetMapping Name="AdminLogs">
+            <EntityTypeMapping TypeName="SpruceModel.AdminLog">
+              <MappingFragment StoreEntitySet="AdminLog">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Carts">
+            <EntityTypeMapping TypeName="SpruceModel.Cart">
+              <MappingFragment StoreEntitySet="Cart">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+                <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ContactUs">
+            <EntityTypeMapping TypeName="SpruceModel.ContactU">
+              <MappingFragment StoreEntitySet="ContactUs">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Subject" ColumnName="Subject" />
+                <ScalarProperty Name="Message" ColumnName="Message" />
+                <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CustomDesigns">
+            <EntityTypeMapping TypeName="SpruceModel.CustomDesign">
+              <MappingFragment StoreEntitySet="CustomDesign">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="FabricId" ColumnName="FabricId" />
+                <ScalarProperty Name="ShirtStyle" ColumnName="ShirtStyle" />
+                <ScalarProperty Name="ThreadColor" ColumnName="ThreadColor" />
+                <ScalarProperty Name="CuffStyle" ColumnName="CuffStyle" />
+                <ScalarProperty Name="ButtonStyle" ColumnName="ButtonStyle" />
+                <ScalarProperty Name="BtnColor" ColumnName="BtnColor" />
+                <ScalarProperty Name="PocketStyle" ColumnName="PocketStyle" />
+                <ScalarProperty Name="MadeToMeasureOrStandard" ColumnName="MadeToMeasureOrStandard" />
+                <ScalarProperty Name="CollorStyle" ColumnName="CollorStyle" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CustomOrders">
+            <EntityTypeMapping TypeName="SpruceModel.CustomOrder">
+              <MappingFragment StoreEntitySet="CustomOrders">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="CustomDesign" ColumnName="CustomDesign" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="Total" ColumnName="Total" />
+                <ScalarProperty Name="AdminView" ColumnName="AdminView" />
+                <ScalarProperty Name="secondAddress" ColumnName="secondAddress" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Featureds">
+            <EntityTypeMapping TypeName="SpruceModel.Featured">
+              <MappingFragment StoreEntitySet="Featured">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="FeedBacks">
+            <EntityTypeMapping TypeName="SpruceModel.FeedBack">
+              <MappingFragment StoreEntitySet="FeedBack">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Feeling" ColumnName="Feeling" />
+                <ScalarProperty Name="Issue" ColumnName="Issue" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MadeToMeasures">
+            <EntityTypeMapping TypeName="SpruceModel.MadeToMeasure">
+              <MappingFragment StoreEntitySet="MadeToMeasure">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Collar" ColumnName="Collar" />
+                <ScalarProperty Name="Shoulder" ColumnName="Shoulder" />
+                <ScalarProperty Name="Chest" ColumnName="Chest" />
+                <ScalarProperty Name="Waist" ColumnName="Waist" />
+                <ScalarProperty Name="SleeveLength" ColumnName="SleeveLength" />
+                <ScalarProperty Name="ShirtLength" ColumnName="ShirtLength" />
+                <ScalarProperty Name="CustomOrderId" ColumnName="CustomOrderId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Orders">
+            <EntityTypeMapping TypeName="SpruceModel.Order">
+              <MappingFragment StoreEntitySet="Order">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Total" ColumnName="Total" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="AdminView" ColumnName="AdminView" />
+                <ScalarProperty Name="secondAddress" ColumnName="secondAddress" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Passwords">
+            <EntityTypeMapping TypeName="SpruceModel.Password">
+              <MappingFragment StoreEntitySet="Password">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Password1" ColumnName="Password" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Pix_us_ExceptionHandeling">
+            <EntityTypeMapping TypeName="SpruceModel.Pix_us_ExceptionHandeling">
+              <MappingFragment StoreEntitySet="Pix_us_ExceptionHandeling">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="Block" ColumnName="Block" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Reviews">
+            <EntityTypeMapping TypeName="SpruceModel.Review">
+              <MappingFragment StoreEntitySet="Review">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+                <ScalarProperty Name="Review1" ColumnName="Review" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Rating" ColumnName="Rating" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Subscriptions">
+            <EntityTypeMapping TypeName="SpruceModel.Subscription">
+              <MappingFragment StoreEntitySet="Subscription">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="SpruceModel.User">
+              <MappingFragment StoreEntitySet="User">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Products">
+            <EntityTypeMapping TypeName="SpruceModel.Product">
+              <MappingFragment StoreEntitySet="Product">
+                <ScalarProperty Name="delete" ColumnName="delete" />
+                <ScalarProperty Name="Color" ColumnName="Color" />
+                <ScalarProperty Name="Category" ColumnName="Category" />
+                <ScalarProperty Name="sold" ColumnName="sold" />
+                <ScalarProperty Name="DiscountedPrice" ColumnName="DiscountedPrice" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="ImageGallery" ColumnName="ImageGallery" />
+                <ScalarProperty Name="MainImage" ColumnName="MainImage" />
+                <ScalarProperty Name="Type" ColumnName="Type" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+                <ScalarProperty Name="Price" ColumnName="Price" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="595322cbf3154890bb5e90a059e6cc6a" Name="Diagram1">
+        <EntityTypeShape EntityType="SpruceModel.AdminLog" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.Cart" Width="1.5" PointX="3" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.ContactU" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.CustomDesign" Width="1.5" PointX="5.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.CustomOrder" Width="1.5" PointX="8" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.Featured" Width="1.5" PointX="3" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.FeedBack" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.MadeToMeasure" Width="1.5" PointX="8" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.Order" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.Password" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.Pix_us_ExceptionHandeling" Width="1.5" PointX="10.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.Review" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.Subscription" Width="1.5" PointX="10.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SpruceModel.User" Width="1.5" PointX="1.5" PointY="12.625" IsExpanded="true" />
+        <AssociationConnector Association="SpruceModel.FK__Cart__OrderId__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="SpruceModel.FK__CustomOrd__Custo__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="SpruceModel.FK__MadeToMea__Custo__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="SpruceModel.FK__CustomOrd__UserI__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="SpruceModel.FK__Order__UserId__412EB0B6" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="SpruceModel.Product" Width="1.5" PointX="0.75" PointY="2.875" />
+        <AssociationConnector Association="SpruceModel.FK__Cart__ProductId__3F466844" />
+        <AssociationConnector Association="SpruceModel.FK__Featured__Produc__4222D4EF" />
+        <AssociationConnector Association="SpruceModel.FK__Review__ProductI__44FF419A" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

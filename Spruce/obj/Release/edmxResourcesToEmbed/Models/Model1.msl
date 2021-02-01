@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SpruceModelStoreContainer" CdmEntityContainer="SpruceEntities">
+    <EntitySetMapping Name="AdminLogs">
+      <EntityTypeMapping TypeName="SpruceModel.AdminLog">
+        <MappingFragment StoreEntitySet="AdminLog">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Carts">
+      <EntityTypeMapping TypeName="SpruceModel.Cart">
+        <MappingFragment StoreEntitySet="Cart">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ContactUs">
+      <EntityTypeMapping TypeName="SpruceModel.ContactU">
+        <MappingFragment StoreEntitySet="ContactUs">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Subject" ColumnName="Subject" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CustomDesigns">
+      <EntityTypeMapping TypeName="SpruceModel.CustomDesign">
+        <MappingFragment StoreEntitySet="CustomDesign">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FabricId" ColumnName="FabricId" />
+          <ScalarProperty Name="ShirtStyle" ColumnName="ShirtStyle" />
+          <ScalarProperty Name="ThreadColor" ColumnName="ThreadColor" />
+          <ScalarProperty Name="CuffStyle" ColumnName="CuffStyle" />
+          <ScalarProperty Name="ButtonStyle" ColumnName="ButtonStyle" />
+          <ScalarProperty Name="BtnColor" ColumnName="BtnColor" />
+          <ScalarProperty Name="PocketStyle" ColumnName="PocketStyle" />
+          <ScalarProperty Name="MadeToMeasureOrStandard" ColumnName="MadeToMeasureOrStandard" />
+          <ScalarProperty Name="CollorStyle" ColumnName="CollorStyle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CustomOrders">
+      <EntityTypeMapping TypeName="SpruceModel.CustomOrder">
+        <MappingFragment StoreEntitySet="CustomOrders">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CustomDesign" ColumnName="CustomDesign" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="AdminView" ColumnName="AdminView" />
+          <ScalarProperty Name="secondAddress" ColumnName="secondAddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Featureds">
+      <EntityTypeMapping TypeName="SpruceModel.Featured">
+        <MappingFragment StoreEntitySet="Featured">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FeedBacks">
+      <EntityTypeMapping TypeName="SpruceModel.FeedBack">
+        <MappingFragment StoreEntitySet="FeedBack">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Feeling" ColumnName="Feeling" />
+          <ScalarProperty Name="Issue" ColumnName="Issue" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MadeToMeasures">
+      <EntityTypeMapping TypeName="SpruceModel.MadeToMeasure">
+        <MappingFragment StoreEntitySet="MadeToMeasure">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Collar" ColumnName="Collar" />
+          <ScalarProperty Name="Shoulder" ColumnName="Shoulder" />
+          <ScalarProperty Name="Chest" ColumnName="Chest" />
+          <ScalarProperty Name="Waist" ColumnName="Waist" />
+          <ScalarProperty Name="SleeveLength" ColumnName="SleeveLength" />
+          <ScalarProperty Name="ShirtLength" ColumnName="ShirtLength" />
+          <ScalarProperty Name="CustomOrderId" ColumnName="CustomOrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="SpruceModel.Order">
+        <MappingFragment StoreEntitySet="Order">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="AdminView" ColumnName="AdminView" />
+          <ScalarProperty Name="secondAddress" ColumnName="secondAddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Passwords">
+      <EntityTypeMapping TypeName="SpruceModel.Password">
+        <MappingFragment StoreEntitySet="Password">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password1" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pix_us_ExceptionHandeling">
+      <EntityTypeMapping TypeName="SpruceModel.Pix_us_ExceptionHandeling">
+        <MappingFragment StoreEntitySet="Pix_us_ExceptionHandeling">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Block" ColumnName="Block" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reviews">
+      <EntityTypeMapping TypeName="SpruceModel.Review">
+        <MappingFragment StoreEntitySet="Review">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+          <ScalarProperty Name="Review1" ColumnName="Review" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subscriptions">
+      <EntityTypeMapping TypeName="SpruceModel.Subscription">
+        <MappingFragment StoreEntitySet="Subscription">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="SpruceModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="SpruceModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="delete" ColumnName="delete" />
+          <ScalarProperty Name="Color" ColumnName="Color" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="sold" ColumnName="sold" />
+          <ScalarProperty Name="DiscountedPrice" ColumnName="DiscountedPrice" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ImageGallery" ColumnName="ImageGallery" />
+          <ScalarProperty Name="MainImage" ColumnName="MainImage" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
