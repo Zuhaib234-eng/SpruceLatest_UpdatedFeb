@@ -61,16 +61,9 @@ namespace Spruce
         private SpruceEntities db;
         protected void BuyProd_Click(object sender, EventArgs e)
         {
-            try
-            {                
                 BuyProductsMethod();
                 CheckOutSucceedHiddenField.Value = "success";
 
-            }
-            catch(Exception ex)
-            { 
-            
-            }
         }
 
         private void BuyProductsMethod()
@@ -224,7 +217,7 @@ namespace Spruce
             message.IsBodyHtml = true;
             client.UseDefaultCredentials = false;
             client.EnableSsl = true;
-            client.Credentials = new System.Net.NetworkCredential("sprucecustomization.pk@gmail.com", "Spruce.pk!@#");
+            client.Credentials = new System.Net.NetworkCredential("sprucecustomization.pk@gmail.com", "Spruce@2020");
             client.Send(message);
         }
     }
